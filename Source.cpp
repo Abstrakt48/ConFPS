@@ -47,9 +47,6 @@ int main()
 	map += L"#..............#";
 	map += L"################";
 
-
-
-
 	auto tp1 = chrono::system_clock::now();
 	auto tp2 = chrono::system_clock::now();
 
